@@ -1,2 +1,3 @@
 Name: Ashlok Chaudhary
 City: Mumbai, Maharashtra
+Skills: Web Development, Cloud Development
